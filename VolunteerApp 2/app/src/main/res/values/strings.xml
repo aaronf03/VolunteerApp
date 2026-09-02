@@ -9,7 +9,7 @@
     <string name="label_email">EMAIL ADDRESS</string>
     <string name="label_password">PASSWORD</string>
     <string name="hint_email">you@example.com</string>
-    <string name="hint_password">••••••••</string>
+    <string name="hint_password">•••••••</string>
     <string name="forgot_password">Forgot password?</string>
     <string name="btn_join">Join the Movement →</string>
     <string name="badge_volunteers">2.4M+ Volunteers</string>
