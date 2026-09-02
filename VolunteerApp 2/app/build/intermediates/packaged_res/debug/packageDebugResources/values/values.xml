@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="amber">#F4A261</color>
+    <color name="charcoal">#1A1A1A</color>
+    <color name="coral">#E07A5F</color>
+    <color name="cream">#FAF7F2</color>
+    <color name="forest">#2D6A4F</color>
+    <color name="forest_dark">#1B4332</color>
+    <color name="forest_mid">#40916C</color>
+    <color name="housing_purple">#9B8EA8</color>
+    <color name="impact_green_bg">#E8F5EE</color>
+    <color name="ink">#5C5148</color>
+    <color name="md_theme_background">@color/cream</color>
+    <color name="md_theme_onPrimary">@color/white</color>
+    <color name="md_theme_onSurface">@color/charcoal</color>
+    <color name="md_theme_onSurfaceVariant">@color/muted</color>
+    <color name="md_theme_outline">@color/sand_border</color>
+    <color name="md_theme_primary">@color/forest</color>
+    <color name="md_theme_secondary">@color/coral</color>
+    <color name="md_theme_surface">@color/white</color>
+    <color name="muted">#8B8178</color>
+    <color name="sand">#F2E8DC</color>
+    <color name="sand_border">#E8E0D5</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Voluneer</string>
+    <string name="badge_countries">Across 190 countries</string>
+    <string name="badge_volunteers">2.4M+ Volunteers</string>
+    <string name="btn_join">Join the Movement →</string>
+    <string name="card1_date">Sat, Sep 7</string>
+    <string name="card1_location">Brooklyn, NY</string>
+    <string name="card1_org">Brooklyn Food Coalition</string>
+    <string name="card1_spots">24 going · 8 left</string>
+    <string name="card1_tag">⚡ Urgent</string>
+    <string name="card1_title">Community Food Pantry</string>
+    <string name="card2_date">Sun, Sep 8</string>
+    <string name="card2_location">Queens, NY</string>
+    <string name="card2_org">Green Roots NYC</string>
+    <string name="card2_spots">15 going · 5 left</string>
+    <string name="card2_tag">Environment</string>
+    <string name="card2_title">Urban Garden Cleanup</string>
+    <string name="featured_subtitle">Sep 20–27 · 48 events near you</string>
+    <string name="featured_tag">FEATURED</string>
+    <string name="featured_title">Climate Action Week</string>
+    <string name="filter">⚙ Filter</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="greeting_morning">Good morning,</string>
+    <string name="greeting_name">Maria 🌿</string>
+    <string name="hint_email">you@example.com</string>
+    <string name="hint_password">••••••••</string>
+    <string name="history1_cause">Housing</string>
+    <string name="history1_date">Aug 17, 2026</string>
+    <string name="history1_hours">+6 hrs</string>
+    <string name="history1_title">Habitat for Humanity Build</string>
+    <string name="history2_cause">Food Security</string>
+    <string name="history2_date">Aug 3, 2026</string>
+    <string name="history2_hours">+4 hrs</string>
+    <string name="history2_title">Community Food Pantry</string>
+    <string name="history3_cause">Environment</string>
+    <string name="history3_date">Jul 21, 2026</string>
+    <string name="history3_hours">+3 hrs</string>
+    <string name="history3_title">River Cleanup Day</string>
+    <string name="impact_goal_complete">complete</string>
+    <string name="impact_goal_percent">71%</string>
+    <string name="impact_goal_progress">142 / 200 hrs</string>
+    <string name="impact_goal_title">2026 Impact Goal</string>
+    <string name="label_email">EMAIL ADDRESS</string>
+    <string name="label_password">PASSWORD</string>
+    <string name="login_headline_line1">Change Starts\nWith </string>
+    <string name="login_headline_line2">You.</string>
+    <string name="login_subtitle">Join millions of volunteers making a lasting difference every day.</string>
+    <string name="nav_explore">Explore</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_impact">Impact</string>
+    <string name="nav_profile">Profile</string>
+    <string name="profile_bio">Passionate about food security, urban ecology, and youth education. Making a difference one hour at a time.</string>
+    <string name="profile_location">📍 Brooklyn, NY · Member since Jan 2024</string>
+    <string name="profile_name">Maria Chen</string>
+    <string name="search_hint">Search opportunities, causes, orgs…</string>
+    <string name="share_profile">Share Profile</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="tab_global">🌍 Global</string>
+    <string name="tab_near_me">🏠 Near Me</string>
+    <string name="volunteer_history">Volunteer History</string>
+    <style name="Text"/>
+    <style name="Text.Body">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/ink</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="Text.Body.Muted">
+        <item name="android:textColor">@color/muted</item>
+    </style>
+    <style name="Text.Display">
+        <item name="android:fontFamily">serif</item>
+        <item name="android:textColor">@color/charcoal</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Text.Display.CardTitle">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="Text.Display.H2">
+        <item name="android:textSize">24sp</item>
+    </style>
+    <style name="Text.Display.H3">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="Text.Display.Hero">
+        <item name="android:textSize">30sp</item>
+        <item name="android:lineSpacingMultiplier">1.1</item>
+    </style>
+    <style name="Text.Label"/>
+    <style name="Text.Label.Uppercase">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/muted</item>
+        <item name="android:textSize">11sp</item>
+        <item name="android:letterSpacing">0.09</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="Theme.VolunteerApp" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/md_theme_primary</item>
+        <item name="colorOnPrimary">@color/md_theme_onPrimary</item>
+        <item name="colorSecondary">@color/md_theme_secondary</item>
+        <item name="colorSurface">@color/md_theme_surface</item>
+        <item name="colorOnSurface">@color/md_theme_onSurface</item>
+        <item name="colorOnSurfaceVariant">@color/md_theme_onSurfaceVariant</item>
+        <item name="colorOutline">@color/md_theme_outline</item>
+        <item name="android:windowBackground">@color/cream</item>
+        <item name="android:statusBarColor">@color/forest_dark</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="23">false</item>
+        
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="fontFamily">sans-serif</item>
+    </style>
+    <style name="Theme.VolunteerApp.NoBar">
+        <item name="android:windowFullscreen">false</item>
+    </style>
+    <style name="Widget.VolunteerApp.Button.Primary" parent="Widget.Material3.Button">
+        <item name="backgroundTint">@color/forest</item>
+        <item name="cornerRadius">14dp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingTop">15dp</item>
+        <item name="android:paddingBottom">15dp</item>
+    </style>
+    <style name="Widget.VolunteerApp.Button.Small" parent="Widget.Material3.Button">
+        <item name="backgroundTint">@color/forest</item>
+        <item name="cornerRadius">10dp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:paddingBottom">8dp</item>
+        <item name="android:paddingStart">16dp</item>
+        <item name="android:paddingEnd">16dp</item>
+        <item name="android:minHeight">0dp</item>
+    </style>
+    <style name="Widget.VolunteerApp.Chip.Tab" parent="Widget.Material3.Button.TonalButton">
+        <item name="cornerRadius">100dp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:minHeight">0dp</item>
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:paddingBottom">8dp</item>
+        <item name="android:paddingStart">20dp</item>
+        <item name="android:paddingEnd">20dp</item>
+    </style>
+    <style name="Widget.VolunteerApp.TextInputLayout" parent="Widget.Material3.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/forest</item>
+        <item name="boxStrokeWidth">1.5dp</item>
+        <item name="boxCornerRadiusTopStart">12dp</item>
+        <item name="boxCornerRadiusTopEnd">12dp</item>
+        <item name="boxCornerRadiusBottomStart">12dp</item>
+        <item name="boxCornerRadiusBottomEnd">12dp</item>
+        <item name="boxBackgroundColor">@color/white</item>
+        <item name="hintEnabled">false</item>
+    </style>
+</resources>

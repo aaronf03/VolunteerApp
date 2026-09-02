@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Material3 theme, mapped onto the app's own forest/coral/cream palette -->
+    <style name="Theme.VolunteerApp" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/md_theme_primary</item>
+        <item name="colorOnPrimary">@color/md_theme_onPrimary</item>
+        <item name="colorSecondary">@color/md_theme_secondary</item>
+        <item name="colorSurface">@color/md_theme_surface</item>
+        <item name="colorOnSurface">@color/md_theme_onSurface</item>
+        <item name="colorOnSurfaceVariant">@color/md_theme_onSurfaceVariant</item>
+        <item name="colorOutline">@color/md_theme_outline</item>
+        <item name="android:windowBackground">@color/cream</item>
+        <item name="android:statusBarColor">@color/forest_dark</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="23">false</item>
+        <!--
+          Body copy uses the platform sans-serif (Roboto) family as a close,
+          zero-dependency stand-in for 'Nunito'. Headlines use "serif" to
+          echo the Fraunces display font used throughout the Figma design.
+          To use the *exact* webfonts, download the .ttf files from
+          fonts.google.com/specimen/Nunito and /Fraunces, drop them into
+          res/font/, and wire up font-family XMLs (Fonts in XML) - see
+          README.md for step-by-step instructions.
+        -->
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="fontFamily">sans-serif</item>
+    </style>
+
+    <style name="Theme.VolunteerApp.NoBar">
+        <item name="android:windowFullscreen">false</item>
+    </style>
+</resources>

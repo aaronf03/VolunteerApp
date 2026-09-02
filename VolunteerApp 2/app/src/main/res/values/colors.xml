@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Core palette taken from the Figma design tokens (T object) -->
+    <color name="cream">#FAF7F2</color>
+    <color name="sand">#F2E8DC</color>
+    <color name="sand_border">#E8E0D5</color>
+    <color name="forest">#2D6A4F</color>
+    <color name="forest_mid">#40916C</color>
+    <color name="forest_dark">#1B4332</color>
+    <color name="coral">#E07A5F</color>
+    <color name="amber">#F4A261</color>
+    <color name="charcoal">#1A1A1A</color>
+    <color name="ink">#5C5148</color>
+    <color name="muted">#8B8178</color>
+    <color name="white">#FFFFFF</color>
+    <color name="impact_green_bg">#E8F5EE</color>
+    <color name="housing_purple">#9B8EA8</color>
+
+    <!-- Material3 role mapping -->
+    <color name="md_theme_primary">@color/forest</color>
+    <color name="md_theme_onPrimary">@color/white</color>
+    <color name="md_theme_secondary">@color/coral</color>
+    <color name="md_theme_background">@color/cream</color>
+    <color name="md_theme_surface">@color/white</color>
+    <color name="md_theme_onSurface">@color/charcoal</color>
+    <color name="md_theme_onSurfaceVariant">@color/muted</color>
+    <color name="md_theme_outline">@color/sand_border</color>
+</resources>

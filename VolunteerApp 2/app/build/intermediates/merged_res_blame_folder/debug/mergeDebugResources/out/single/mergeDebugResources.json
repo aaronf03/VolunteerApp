@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/drawable_bg_pill_dark_translucent.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/drawable/bg_pill_dark_translucent.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/drawable_ic_clock.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/drawable/ic_clock.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/drawable_ic_eye_closed.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/drawable/ic_eye_closed.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/layout_activity_home.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/drawable_ic_pin.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/drawable/ic_pin.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/drawable_ic_share.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/drawable/ic_share.xml"
+    },
+    {
+        "merged": "com.example.volunteerapp-debug-36:/layout_activity_home.xml.flat",
+        "source": "com.example.volunteerapp-main-38:/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/drawable_bg_circle_translucent.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/drawable/bg_circle_translucent.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/layout_layout_bottom_nav_profile.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/layout/layout_bottom_nav_profile.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/drawable_ic_person.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/drawable_overlay_hero_scrim.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/drawable/overlay_hero_scrim.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/drawable_ic_users.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/drawable/ic_users.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/drawable_ic_heart_active.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/drawable/ic_heart_active.xml"
+    },
+    {
+        "merged": "com.example.volunteerapp-debug-36:/layout_activity_profile.xml.flat",
+        "source": "com.example.volunteerapp-main-38:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/layout_layout_bottom_nav_home.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/layout/layout_bottom_nav_home.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/drawable_bg_banner_forest.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/drawable/bg_banner_forest.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/drawable_ic_home_active.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/drawable/ic_home_active.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/drawable_bg_card_stat.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/drawable/bg_card_stat.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/drawable_overlay_card_scrim.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/drawable/overlay_card_scrim.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/drawable_ic_search.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/drawable_overlay_banner_scrim.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/drawable/overlay_banner_scrim.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/drawable_ic_filter.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/drawable/ic_filter.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/xml_backup_rules.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/drawable_bg_card_white.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/drawable/bg_card_white.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/drawable_ic_heart.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/drawable/ic_heart.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/layout_activity_login.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/drawable_bg_circle_white.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/drawable/bg_circle_white.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/drawable_bg_pill_forest.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/drawable/bg_pill_forest.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/drawable_bg_pill_green_soft.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/drawable/bg_pill_green_soft.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/drawable_ic_person_active.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/drawable/ic_person_active.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/drawable_bg_dot_online.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/drawable/bg_dot_online.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/layout_activity_profile.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/drawable_bg_dot_forest.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/drawable/bg_dot_forest.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/drawable_progress_ring_impact.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/drawable/progress_ring_impact.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/drawable_ic_home.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/drawable_ic_chevron_left.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/drawable/ic_chevron_left.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/drawable_ic_heart_white.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/drawable/ic_heart_white.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/drawable_bg_pill_sand_tag.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/drawable/bg_pill_sand_tag.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/drawable_bg_pill_coral.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/drawable/bg_pill_coral.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/drawable_bg_input.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/drawable/bg_input.xml"
+    },
+    {
+        "merged": "com.example.volunteerapp-debug-36:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.volunteerapp-main-38:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/drawable_bg_button_gradient.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/drawable/bg_button_gradient.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/drawable_ic_eye_open.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/drawable/ic_eye_open.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/drawable_bg_pill_sand.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/drawable/bg_pill_sand.xml"
+    },
+    {
+        "merged": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-debug-36:/drawable_bg_card_white_lg.xml.flat",
+        "source": "/Users/aaronfinlay/.gradle/daemon/9.4.1/com.example.volunteerapp-main-38:/drawable/bg_card_white_lg.xml"
+    }
+]
