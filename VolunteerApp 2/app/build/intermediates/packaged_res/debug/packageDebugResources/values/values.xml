@@ -46,7 +46,7 @@
     <string name="greeting_morning">Good morning,</string>
     <string name="greeting_name">Maria 🌿</string>
     <string name="hint_email">you@example.com</string>
-    <string name="hint_password">••••••••</string>
+    <string name="hint_password">•••••••</string>
     <string name="history1_cause">Housing</string>
     <string name="history1_date">Aug 17, 2026</string>
     <string name="history1_hours">+6 hrs</string>
